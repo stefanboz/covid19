@@ -4,6 +4,6 @@ Live: https://stefanboz.github.io/covid19/
 
 ## Quick start
 
-### `npm install`
+npm install <br />
 
-### `npm start`
+npm start <br />
